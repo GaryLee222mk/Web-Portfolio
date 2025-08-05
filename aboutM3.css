@@ -1,0 +1,66 @@
+h1{
+text-align: center;
+}
+
+html{
+    background-color:rgb(255, 255, 255)
+}
+
+#squidgame{
+    position: relative; left: 900px;
+}
+#OnePiece{position: relative; right: 220px;
+}
+#Noway{
+    position: relative; left: 110px
+}
+#bloodHOUNDS{
+    position: relative; right: 450px
+}
+#p{
+    color:rgb(18, 132, 132); text-align: center;
+}
+
+#p2{
+    text-align: center;
+}
+
+#p3{
+    text-align: right;
+}
+
+#DeathInTheBox{
+    position: relative; left: 900px
+}
+
+#Monarch{
+    position: relative; left: 300px
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #45A049;
+}
+.container {
+  border-radius: 5px;
+  background-color: #F2F2F2;
+  padding: 20px;
+}
+
